@@ -1,0 +1,34 @@
+2, 1
+A typical object that should be accepted
+3, 4
+1
+A typical object that should be rejected
+1, -2
+-1
+An untypical object that should be accepted
+4, 2
+0.8
+An untypical object that should be rejected
+0, -1
+-0.8
+A typical object that should be accepted
+4, 5
+1
+A typical object that should be rejected
+-1, -3
+-1
+An untypical object that should be not recognized
+-3, 2
+0.0
+An untypical object that should be accepted
+6, 4
+0.9
+An untypical object that should be accepted
+0, -1
+0.7
+An untypical object that should be rejected
+-5, 1
+-0.7
+An untypical object that should be rejected
+-1, -1
+-1

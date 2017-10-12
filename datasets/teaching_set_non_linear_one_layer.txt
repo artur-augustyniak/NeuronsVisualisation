@@ -1,0 +1,22 @@
+5, 3
+A typical object that should be accepted by the first neuron
+3, 4, 3, 4, 5
+1, -1, -1
+A typical object that should be accepted by the second neuron
+1, -2, 1, -2, -4
+-1, 1, -1
+A typical object that should be accepted by the third neuron
+-3, 2, -5, 3, 1
+-1, -1, 1
+An untypical object that should be accepted by the first neuron
+4, 2, 5, 3, 2
+0.8, -1, -1
+An untypical object that should be accepted by the second neuron
+0, -1, 0, -3, -3
+-1, 0.8, -1
+An untypical object that should be accepted by the third neuron
+-5, 1, -1, 4, 2
+-1, -1, 0.8
+An untypical object that should be rejected by all neurons
+-1, -1, -1, -1, -1
+-1, -1, -1
